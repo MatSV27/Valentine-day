@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Valentine-day/static/css/main.db531a12.css",
+    "main.js": "/Valentine-day/static/js/main.9eb9b97c.js",
+    "index.html": "/Valentine-day/index.html",
+    "main.db531a12.css.map": "/Valentine-day/static/css/main.db531a12.css.map",
+    "main.9eb9b97c.js.map": "/Valentine-day/static/js/main.9eb9b97c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db531a12.css",
+    "static/js/main.9eb9b97c.js"
+  ]
+}
